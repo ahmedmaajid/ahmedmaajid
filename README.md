@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Ahmed 👋
+# Hey, I'm Maajid 👋
 
 I build websites and web apps for people who want to grow their business online.
 
@@ -33,6 +33,8 @@ I care about the small details: smooth user experience, secure payments, and sit
 
 **Other things I use**  
 `Git` `Vercel` `REST APIs` `Secure auth & payments`
+
++ a few more tools and technologies I pick up as projects need them.
 
 ---
 
