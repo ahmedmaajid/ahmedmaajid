@@ -1,54 +1,50 @@
 <div align="center">
 
-# Hi there, I'm Ahmed Maajid 👋
+# Hey, I'm Ahmed 👋
 
-**Full Stack Web Developer** • Building digital experiences that matter
+I build websites and web apps for people who want to grow their business online.
 
 [![Website](https://img.shields.io/badge/Website-maajid.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.maajid.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-ahmedmaajid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedmaajid)
 [![Twitter](https://img.shields.io/badge/Twitter-@IAhmedMaajid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IAhmedMaajid)
+[![Instagram](https://img.shields.io/badge/Instagram-@immaajid-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/immaajid)
+[![Facebook](https://img.shields.io/badge/Facebook-@IAhmedMaajid-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/IAhmedMaajid)
 
 </div>
 
 ---
 
-### 💡 About Me
+### A bit about me
 
-```js
-const ahmed = {
-  location: "Colombo, Sri Lanka 🇱🇰",
-  role: "Full Stack Web Developer",
-  company: "Framewall Co",
-  currently: ["Building modern web apps", "Crafting clean UI/UX", "Helping clients grow online"],
-  interests: ["Web Development", "E-commerce", "Clean Code", "Product Design"],
-  funFact: "I build stuff — from ideas to production"
-};
-```
+I'm a full-stack developer based in Colombo, Sri Lanka. I started Framewall to help brands sell their products online with clean, fast, and secure websites.
+
+Right now I'm focused on building e-commerce stores and web apps that actually convert. My first client project is live at [kitfits.club](https://kitfits.club) — a fitness brand store I built from scratch.
+
+I care about the small details: smooth user experience, secure payments, and sites that load fast even on slower connections.
 
 ---
 
-### 🚀 What I'm Working On
-
-- 🏠 **Framewall** — Web design & development agency helping businesses go digital
-- 📦 Building high-performance e-commerce stores and full-stack applications
-- 💻 Exploring modern frontend frameworks and backend architectures
-
----
-
-### 🛠️ Tech Stack
+### What I work with
 
 **Frontend**  
-`React` `Next.js` `JavaScript` `TypeScript` `Tailwind CSS` `HTML/CSS`
+`React` `Next.js` `Tailwind CSS` `JavaScript` `TypeScript`
 
 **Backend**  
-`Node.js` `Express` `MongoDB` `REST APIs`
+`Node.js` `Express` `MongoDB` `MySQL` `PHP`
 
-**Tools & Others**  
-`Git` `GitHub` `VS Code` `Vercel` `Figma`
+**Other things I use**  
+`Git` `Vercel` `REST APIs` `Secure auth & payments`
 
 ---
 
-### 📊 GitHub Stats
+### Currently
+
+- Running **Framewall** — helping small brands get online and sell better  
+- Working on e-commerce projects that focus on conversion and trust  
+- Always open to new client work and interesting collaborations
+
+---
+
+### Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedmaajid&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -57,16 +53,18 @@ const ahmed = {
 
 ---
 
-### 📞 Let's Connect
+### Let's talk
 
-I'm always open to collaborating on interesting projects or just having a chat about tech.
+If you're building something and need a developer who actually cares about the result, feel free to reach out.
 
-- 🌐 Portfolio: [maajid.dev](https://www.maajid.dev)
-- 📧 Reach out via GitHub or Twitter
+- Portfolio → [maajid.dev](https://www.maajid.dev)  
+- Instagram → [@immaajid](https://instagram.com/immaajid)  
+- Framewall → [@framewallio](https://instagram.com/framewallio)  
+- Twitter / Facebook → [@IAhmedMaajid](https://twitter.com/IAhmedMaajid)
 
 <div align="center">
 
-**Thanks for stopping by!** ✨  
-*Building the web, one commit at a time.*
+Thanks for reading 😊  
+Let's build something good.
 
 </div>
