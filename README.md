@@ -17,7 +17,7 @@ I build websites and web apps for people who want to grow their business online.
 
 I'm a full-stack developer based in Colombo, Sri Lanka. I started Framewall to help brands sell their products online with clean, fast, and secure websites.
 
-Right now I'm focused on building e-commerce stores and web apps that actually convert. My first client project is live at [kitfits.club](https://kitfits.club) — a fitness brand store I built from scratch.
+Right now I'm focused on building e-commerce stores and web apps that actually convert. My first client project is live at [kitfits.club](https://kitfits.club) — a football jersey store I built from scratch (football jerseys, cleats, F1 jerseys).
 
 I care about the small details: smooth user experience, secure payments, and sites that load fast even on slower connections.
 
